@@ -3,7 +3,6 @@
 Project structure:
 
 * ``Tree`` in ``tree.py`` is a the main class.
-* Parameters are set in ``run.py``.
 * Data are collected and preprocessed in ``gen-data.ipynb``.
 * Evaluation result is shown in ``result.ipynb``.
 
